@@ -1,6 +1,7 @@
 # PlayIt-
 A music player created using HTML, CSS &amp; JS
 
-![WhatsApp Image 2023-10-17 at 15 34 36_d5b4e4fe](https://github.com/pranavvangavety/PlayIt/assets/115496999/28af4ecd-2e92-4786-9cab-5d1922169487)
+![image](https://github.com/pranavvangavety/PlayIt/assets/115496999/7f6ddb58-5a6a-4896-8a1f-ed68faa2bb08)
+
 
 
