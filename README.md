@@ -12,6 +12,5 @@
 - Basic Controls: Play, pause, skip forward, and rewind songs with fundamental controls.
 - Progress Bar: Track song playback progress with a simple progress bar.
 - Limited Song Information: View basic song details, including the title.
-- Prototype Interface: Please be aware that the project's user interface is in its early stages and not finalized.
 
 
